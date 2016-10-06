@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "781238318537",
+    "firebase_url": "https://petagram-6f643.firebaseio.com",
+    "project_id": "petagram-6f643",
+    "storage_bucket": "petagram-6f643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781238318537:android:fbb7f04ffa69298a",
+        "android_client_info": {
+          "package_name": "coursera.cocodibuja.android.notificacionesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781238318537-qonitcvmpneopcmtqgo5lqoa3jr093k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "coursera.cocodibuja.android.notificacionesfirebase",
+            "certificate_hash": "8101BC4965C27D08751F43D1F05F4E94D76D955F"
+          }
+        },
+        {
+          "client_id": "781238318537-ofopl62anrd410rff0c3rurruqrlp4ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaoMO6E6reE4buI6xquPgWCyawIQ4jXkc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781238318537-ofopl62anrd410rff0c3rurruqrlp4ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781238318537:android:559efc1c317fb003",
+        "android_client_info": {
+          "package_name": "coursera.cocodibuja.android.petagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781238318537-oq7vspsfgcveu06o64moc7oskrarj9ur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "coursera.cocodibuja.android.petagram",
+            "certificate_hash": "8101BC4965C27D08751F43D1F05F4E94D76D955F"
+          }
+        },
+        {
+          "client_id": "781238318537-ofopl62anrd410rff0c3rurruqrlp4ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaoMO6E6reE4buI6xquPgWCyawIQ4jXkc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781238318537-ofopl62anrd410rff0c3rurruqrlp4ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
